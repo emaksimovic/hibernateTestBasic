@@ -1,2 +1,2 @@
 # hibernateTestBasic
-java
+Basic hibernate mappings
